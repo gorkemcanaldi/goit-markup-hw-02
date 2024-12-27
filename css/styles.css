@@ -14,6 +14,7 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: var(--slate);
+        background-color: #FFFFFF;
         
 }
 ul {
@@ -28,7 +29,7 @@ a {
         font-family: "Raleway" ,sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.1;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-decoration: none;
         text-transform: uppercase;
@@ -48,6 +49,13 @@ a {
 .nav-link {
         font-weight: 500;
         color: var(--navyblue);
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: left;
+
+
 }
 
 
@@ -76,15 +84,16 @@ a {
 
 .header-1 {
     color: white;
-    font-weight: 700;   
+       
     font-size: 56px;
     line-height: 1.07;
+    letter-spacing: 0.002em;
     text-align: center;
 }
 
 .hero-button {
     cursor: pointer;
-    background-color: var(--iris);
+    background-color: var(--ocean);
     font-weight: 500;
     letter-spacing: 0.04em;
     color:#ffffff;
@@ -102,8 +111,7 @@ a {
 
 .header-2 {
     font-size: 36px;
-    line-height: 1.11;
-    font-weight: 700;
+    line-height: 1.17;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
