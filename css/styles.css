@@ -99,7 +99,7 @@ a {
     background-color: var(--iris);
     font-weight: 500;
     letter-spacing: 0.04em;
-    color:#ffffff;
+    color:#FFFFFF;
 }
 
 .hero-button:hover, .hero-button:active, .hero-button:focus {
@@ -137,6 +137,10 @@ a {
 
 .team-section {
     background-color: #F4F4FD;
+}
+
+.team-card {
+    background-color: #FFFFFF;
 }
 
 .team-p {
