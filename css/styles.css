@@ -68,7 +68,6 @@ a {
 
 .nav-link-address {
     color: var(--slate);
-    
 }
 
 .nav-link-address:hover,.nav-link-address:focus {
@@ -88,7 +87,7 @@ a {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.002em;
-    
+    text-align: center;
 }
 
 .hero-button {
