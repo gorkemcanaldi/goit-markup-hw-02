@@ -127,6 +127,7 @@ a {
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
+
         color: var(--navyblue);
 }
 
@@ -149,12 +150,20 @@ a {
 
 /* -------------- TEAM-PAGE SECTİON  DONE----------------*/
 
+/* ----------------PORTFOLİO SECTİON */
+
+.header_3 {
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: left;
 
 
+}
 
 
-
-
+/* ------------------PORTFOLİO SECTİON DONE------------------------ */
 /* -------------- MAİN SECTİON DONE ----------------*/
 
 /* -------------- FOOTER SECTİON ----------------*/
