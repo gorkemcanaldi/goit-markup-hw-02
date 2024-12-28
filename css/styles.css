@@ -108,7 +108,7 @@ h1 {
 /* -------------- FEATURESD SECTİON ----------------*/
 
 
-.header-2 {
+.header_2 {
     font-size: 36px;
     line-height: 1.11;
     font-weight: 700;
@@ -118,7 +118,7 @@ h1 {
     color: var(--navyblue);
 }
 
-.header-3 {
+.header_3 {
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
