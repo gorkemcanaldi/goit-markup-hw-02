@@ -99,12 +99,9 @@ a {
     color:#ffffff;
 }
 
-.hero-button:active {
+.hero-button:hover, .hero-button:active, .hero-button:focus {
     background-color: var(--ocean);
 
-}
-.hero-button:hover {
-    background-color: var(--ocean);
 }
 
 /* -------------------NAV ADRESS LINK DONE----------------- */
