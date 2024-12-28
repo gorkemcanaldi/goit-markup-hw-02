@@ -69,9 +69,6 @@ a {
 .nav-link-address {
     color: var(--slate);
     font-style: normal;
-    margin: 0;
-    padding: 0;
-    
 }
 
 .nav-link-address:hover,.nav-link-address:focus {
@@ -102,9 +99,12 @@ a {
     color:#ffffff;
 }
 
-.hero-button:hover, .hero-button:active {
+.hero-button:active {
     background-color: var(--ocean);
 
+}
+.hero-button:hover {
+    background-color: var(--ocean);
 }
 
 /* -------------------NAV ADRESS LINK DONE----------------- */
