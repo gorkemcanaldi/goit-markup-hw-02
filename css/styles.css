@@ -70,6 +70,10 @@ a {
     color: var(--slate);
 }
 
+.address-link {
+    font-style: normal;
+}
+
 .nav-link-address:hover,.nav-link-address:focus {
     color: var(--ocean);
 }
