@@ -82,7 +82,7 @@ a {
 }
 
 
-.header-1 {
+.heading-1 {
     color: white;
     font-weight: 700;   
     font-size: 56px;
@@ -109,7 +109,7 @@ a {
 /* -------------- FEATURESD SECTİON ----------------*/
 
 
-.header-2 {
+.heading-2 {
     font-size: 36px;
     line-height: 1.11;
     font-weight: 700;
@@ -119,7 +119,7 @@ a {
     color: var(--navyblue);
 }
 
-.header-3 {
+.heading-3 {
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
