@@ -67,13 +67,8 @@ a {
 /* ---ADRESS LINK---- */
 
 .nav-link-address {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-align: left;
     color: var(--slate);
-
+    
 }
 
 .nav-link-address:hover,.nav-link-address:focus {
