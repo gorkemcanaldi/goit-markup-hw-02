@@ -68,7 +68,6 @@ a {
 
 .nav-link-address {
     color: var(--slate);
-    font-style: normal;
 }
 
 .nav-link-address:hover,.nav-link-address:focus {
